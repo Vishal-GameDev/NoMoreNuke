@@ -1,8 +1,7 @@
 No More Nukes ☢️
 
 A Unity 3D game developed by Vishal S.
-In a world haunted by nuclear aftermath, the player must survive, collect oxygen capsules, and escape through a mysterious forest portal before it's too late.
-
+A cut scene which shows the impact and effects of nuclear weapons.
 Built With
 - Unity Engine
 - C# Scripts
